@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Masayuki Ariki',
+  subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をhugoで、のーんびりと記録しています。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Masayuki Ariki',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'ディープラーニングやサイト・データベース制作時の備忘録をhugoで、のーんびりと記録しています。',
     contacts: {
       email: '',
       facebook: '#',

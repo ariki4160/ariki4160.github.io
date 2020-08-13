@@ -1,5 +1,5 @@
 ---
-title: Vivo Humane Typography in the Digital Age
+title: アップルが定額パッケージ「アップルワン」、10月にも開始－関係者
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Design"
   - "Typography"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "（ブルームバーグ）： 米アップルは、複数の定額デジタルサービスを顧客がまとめて利用できるパッケージの提供を準備している。サービスごとの契約より安い月額料金で利用できるようになるという。事情に詳しい複数の関係者が明らかにした。"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
@@ -18,7 +18,7 @@ socialImage: "/media/42-line-bible.jpg"
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+（ブルームバーグ）： 米アップルは、複数の定額デジタルサービスを顧客がまとめて利用できるパッケージの提供を準備している。サービスごとの契約より安い月額料金で利用できるようになるという。事情に詳しい複数の関係者が明らかにした。
 
 The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
 
