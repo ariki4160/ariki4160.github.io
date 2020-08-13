@@ -21,12 +21,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Increase file limit
-        run: sudo sysctl -w fs.file-max=65536
+    # - name: Increase file limit
+    #     run: sudo sysctl -w fs.file-max=65536
 
-    # - name: Setup kernel for react native, increase watchers
-    #     run: echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
-    # - name: Run dev release fastlane inside docker action
+    - name: Setup kernel for react native, increase watchers
+      run: echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+    - name: Run dev release fastlane inside docker action
 
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
