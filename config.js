@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://ariki4160.github.io/vivo-gatsby-blog/',
+  url: 'https://ariki4160.github.io/',
   pathPrefix: '/',
   title: 'Blog by Masayuki Ariki',
   subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をhugoで、のーんびりと記録しています。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-76876836-8',
+  googleAnalyticsId: 'UA-76876836-9',
   useKatex: false,
   menu: [
     {
