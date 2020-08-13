@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://ariki4160.github.io/',
   pathPrefix: '/',
   title: 'Blog by Masayuki Ariki',
-  subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をhugoで、のーんびりと記録しています。',
+  subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
