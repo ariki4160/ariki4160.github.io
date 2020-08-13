@@ -16,7 +16,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/ariki4160/vivo-gatsby-blog",
+  "repository": "https://github.com/ariki4160/ariki4160.github.io",
   "author": "Masayuki Ariki <ariki1068@gmail.com>",
   "license": "MIT",
   "keywords": [
