@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://ariki4160.github.io/',
+  url: 'https://vivo-blog.net/',
   pathPrefix: '/',
   title: 'Blog by Masayuki Ariki',
   subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
