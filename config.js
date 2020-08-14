@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Masayuki Ariki',
     photo: '/photo.jpg',
-    bio: 'ディープラーニングやサイト・データベース制作時の備忘録をhugoで、のーんびりと記録しています。',
+    bio: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
     contacts: {
       email: '',
       facebook: '#',
