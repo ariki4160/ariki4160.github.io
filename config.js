@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://ariki4160.github.io/vivo-gatsby-blog',
+  url: 'https://ariki4160.github.io/',
   pathPrefix: '/',
   title: 'Blog by Masayuki Ariki',
   subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
@@ -29,15 +29,15 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'ariki1068@gmail.com',
+      facebook: 'https://www.facebook.com/masayuki.ariki',
+      telegram: '',
+      twitter: 'https://twitter.com/ariki4160',
+      github: 'https://github.com/ariki4160',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://jp.linkedin.com/in/ariki-masayuki-673842118',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
