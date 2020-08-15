@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://vivo-blog.net/',
   pathPrefix: '/',
   title: 'Blog by Masayuki Ariki',
-  subtitle: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
+  subtitle: 'ディープラーニングの勉強やサイト・データベース制作時の備忘録をGatsby.jsとGitHub Pagesで、のーんびりと記録しています。',
   copyright: '© 2020 Masayuki Ariki All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Masayuki Ariki',
     photo: '/photo.jpg',
-    bio: 'ディープラーニングやサイト・データベース制作時の備忘録をGatsbyで、のーんびりと記録しています。',
+    bio: 'ディープラーニングの勉強やサイト・データベース制作時の備忘録をGatsby.jsとGitHub Pagesで、のーんびりと記録しています。',
     contacts: {
       email: '',
       facebook: 'masayuki.ariki',

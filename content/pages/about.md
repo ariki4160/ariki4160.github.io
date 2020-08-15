@@ -4,11 +4,11 @@ template: "page"
 socialImage: "/media/about_me_composition.jpg"
 ---
 
-印刷会社のWeb制作部署のワークフローを管理しています。Python/Zope/Django、JavaScript/React/gatsbyjs、Go/Hugo、FileMaker　などが好きです。
+印刷会社でWeb制作部署のワークフローを管理しています。Python/Zope/Django、JavaScript/React/Gatsby.js、Go/Hugo、FileMaker　などが好きです。
 
-![10年ほど前に流行った分身写真のような合成画像。息子2人に協力してもらって作成しました](/media/about_me_composition.jpg)
+![8年ほど前に流行った分身写真のような合成画像。息子2人に協力してもらって作成しました。](/media/about_me_composition.jpg)
 
-*10年ほど前に流行った分身写真のような合成画像。息子2人に協力してもらって作成しました*
+*8年ほど前に流行った分身写真のような合成画像。息子2人に協力してもらって作成しました。*
 
 ![昔のモノクロ写真（子供の頃に撮影）に、ディープラーニングで色を付けたもの](/media/about_me_colorization.jpg)
 
