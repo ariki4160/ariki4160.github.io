@@ -1,13 +1,13 @@
 ---
-title: アップルが定額パッケージ「アップルワン」、10月にも開始－関係者
-date: "2017-08-19T22:40:32.169Z"
+title: ブログを再開します。ツールをHugoからGatsby.jsに変更しました。
+date: "2020-08-15T15:05:19.18"
 template: "post"
-draft: true
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+draft: false
+slug: "blog-restart-from-hugo-to-gatsbyjs"
+category: "Web Development"
 tags:
-  - "Design"
-  - "Typography"
+  - "Gatsby.js"
+  - "Hugo"
   - "Web Development"
 description: "（ブルームバーグ）： 米アップルは、複数の定額デジタルサービスを顧客がまとめて利用できるパッケージの提供を準備している。サービスごとの契約より安い月額料金で利用できるようになるという。事情に詳しい複数の関係者が明らかにした。"
 socialImage: "/media/42-line-bible.jpg"

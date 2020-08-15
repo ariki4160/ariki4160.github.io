@@ -1,13 +1,15 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/about_me_composition.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+印刷会社のWeb制作部署のワークフローを管理しています。Python/Zope/Django、JavaScript/React/gatsbyjs、Go/Hugo、FileMaker　などが好きです。
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![10年ほど前に流行った分身写真のような合成画像。息子2人に協力してもらって作成しました](/media/about_me_composition.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*10年ほど前に流行った分身写真のような合成画像。息子2人に協力してもらって作成しました*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![昔のモノクロ写真（子供の頃に撮影）に、ディープラーニングで色を付けたもの](/media/about_me_colorization.jpg)
+
+*昔のモノクロ写真（子供の頃に撮影）に、ディープラーニングで色を付けたもの。[satoshiiizuka/siggraph2016_colorization: Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.](https://github.com/satoshiiizuka/siggraph2016_colorization)で色付をしました。4年前ほどに流行っていたので、作成したもの。*
