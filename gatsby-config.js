@@ -118,8 +118,8 @@ module.exports = {
             }
           },
           {
-            resolve: "gatsby-remark-embed-youtube",
-            options: {　// 固定サイズにする場合に指定
+            resolve: 'gatsby-remark-embed-youtube',
+            options: {
               width: 800,
               height: 400
             }
