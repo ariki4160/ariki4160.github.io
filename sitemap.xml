@@ -5,9 +5,14 @@
 <url> <loc>https://vivo-blog.net/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/posts/blog-restart-from-hugo-to-gatsbyjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vivo-blog.net/posts/zoom-avatar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vivo-blog.net/tag/face-rig</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/tag/gatsby-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/tag/hugo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/tag/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vivo-blog.net/tag/you-tube</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vivo-blog.net/tag/zoom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vivo-blog.net/category/net-meeting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/category/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vivo-blog.net/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
